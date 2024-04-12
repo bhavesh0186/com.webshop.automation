@@ -10,6 +10,11 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+/*
+ * Class: DriverScripts-This calass is responsible to manage driver across the project.
+ */
+
+
 public class DriverScript {
 	/*
 	 * public driver reference which can be access across the project
